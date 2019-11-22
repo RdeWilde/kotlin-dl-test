@@ -1,0 +1,1 @@
+/usr/bin/c++   -std=c++14 -g   CMakeFiles/test.dir/main.cpp.o  -o test  -L/home/robert/CLionProjects/test/res -Wl,-rpath,/home/robert/CLionProjects/test/res:/home/robert/CLionProjects/test/cmake-build-debug liblibperson.so 

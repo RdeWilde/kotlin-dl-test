@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/robert/CLionProjects/test/main.cpp
+iostream
+-
+src/libperson_api.h
+/home/robert/CLionProjects/test/src/libperson_api.h
+
+/home/robert/CLionProjects/test/src/libperson_api.h
+

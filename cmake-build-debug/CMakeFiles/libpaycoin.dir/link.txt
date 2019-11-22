@@ -1,0 +1,1 @@
+/usr/bin/cc -fPIC -g  -shared -Wl,-soname,liblibpaycoin.so -o liblibpaycoin.so   -L/home/robert/CLionProjects/test/res 

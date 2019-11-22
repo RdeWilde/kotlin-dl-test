@@ -1,0 +1,8 @@
+/home/robert/CLionProjects/test/cmake-build-debug/CMakeFiles/install/strip.dir
+/home/robert/CLionProjects/test/cmake-build-debug/CMakeFiles/install/local.dir
+/home/robert/CLionProjects/test/cmake-build-debug/CMakeFiles/test.dir
+/home/robert/CLionProjects/test/cmake-build-debug/CMakeFiles/list_install_components.dir
+/home/robert/CLionProjects/test/cmake-build-debug/CMakeFiles/libperson.dir
+/home/robert/CLionProjects/test/cmake-build-debug/CMakeFiles/install.dir
+/home/robert/CLionProjects/test/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/robert/CLionProjects/test/cmake-build-debug/CMakeFiles/rebuild_cache.dir
